@@ -15,7 +15,7 @@ zuul:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://172.17.183.33:8070/isadco/tempAppEurekaService/eureka
+      defaultZone: http://172.17.183.33:8761/isadco/tempAppEurekaService/eureka
 
 
 server:
